@@ -197,12 +197,6 @@
       "email": "anathan@usc.edu",
       "photo": "images/headshots/aravind-ram-nathan.png",
       "url": "https://www.linkedin.com/in/aravindramnathan"
-    },
-    "zarana": {
-    	"name": "Zarana Parekh",
-    	"email": "zaranaparekh17@gmail.com",
-    	"photo": null,
-    	"url": null
     }
   },
   "dr-students": [
@@ -211,8 +205,7 @@
       "title" : "Summer 2016",
       "students" : [
         "anastasija",
-        "aravind",
-        "zarana"
+        "aravind"
        ]
     },
     {
